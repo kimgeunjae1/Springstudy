@@ -22,6 +22,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 		{
 			System.out.println("auth 쿠키: " + auth);
 			return "cookie/view";
-	} 
+	}  
 
 }
